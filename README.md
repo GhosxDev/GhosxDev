@@ -1,5 +1,5 @@
 ```javascript
-let ghost = {
+let Ghost = {
     name: `Santiago`,
     country: `Chile`,
     tag: `ghost miau#0003`,
