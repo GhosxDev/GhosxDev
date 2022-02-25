@@ -2,7 +2,7 @@
 let Ghost = {
     name: `Santiago`,
     country: `Chile`,
-    tag: `ghost miau#0003`,
+    tag: `ghost.#0014`,
     age: 13,
     proyects: {
         kat: `Discord Bot`
